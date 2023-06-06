@@ -1,15 +1,8 @@
 body {
 	background-color:#273A0D;
 }
-h1 {
+h1, h2, p {
 	text-align:center;
-	color:white;
-}
-h2 {
-	text-align:center;
-	color:white;
-}
-p {
 	color:white;
 }
 a {
